@@ -96,7 +96,6 @@
 <h2>📈 Моя статистика</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gana74&theme=dracula" alt="Streak stats" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=Gana74&theme=dracula&show_icons=true&locale=en" alt="GitHub stats" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gana74&theme=dracula&layout=compact&langs_count=5" alt="Top langs stats" width="300" />
 </div>
