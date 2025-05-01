@@ -2,7 +2,7 @@
 
 
 <h1 align="center">👋 Привет! Меня зовут Дмитрий Аппель</h1>
-<h3 align="center">Frontend разработчик из Челябинска | Open for collaboration</h3>
+<h3 align="center">Frontend разработчик | Open for collaboration</h3>
 
 ###
 
