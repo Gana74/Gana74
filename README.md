@@ -81,13 +81,13 @@
   <li>
     <strong>Адаптивная веб-страница с плагинами</strong><br>
     Разработка адаптивной страницы с использованием библиотек: swiper.js (слайдер), choices (улучшенные select), accordion (выпадающие блоки).<br>
-    <a href="https://github.com/Gana74/responsive-page-with-plugins">GitHub ссылка</a>
+    <a href="https://gana74.github.io/web-project-radio/">GitHub ссылка</a>
   </li>
 
   <li>
     <strong>Онлайн-платформа «VK Маруся»</strong><br>
     Онлайн-кинотеатр с возможностью поиска и оценки фильмов. Использован Movie API 1.0.<br>
-    <a href="https://github.com/Gana74/vk-marussia-platform">GitHub ссылка</a>
+    <a href="https://gana74.github.io/cinema-guide-api/">GitHub ссылка</a>
   </li>
 </ul>
 
