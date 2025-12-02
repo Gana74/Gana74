@@ -125,18 +125,13 @@
 <h2>🎯 Активность</h2>
 
 <div align="center">
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=Gana74&theme=dracula&hide_border=true" alt="GitHub streak" />
+  <!-- Календарь контрибуций -->
+  <img src="https://ghchart.rshah.org/Gana74" alt="Contribution Chart" />
+  <br/><br/>
+  
+  <!-- Streak с другого сервиса -->
+  <img src="https://streak-stats.demolab.com?user=Gana74&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-
-<!-- Временная альтернатива пока основной сервис не работает -->
-<!-- Можно добавить троттлингный запрос к основному сервису -->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gana74&theme=dracula&show_icons=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana74&theme=dracula&layout=compact&cache_seconds=86400" height="180" />
-</div>
--->
 
 ###
 
