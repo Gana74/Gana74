@@ -9,7 +9,7 @@
   <a href="mailto:yamixam@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=red&logoColor=white&style=for-the-badge" alt="email badge" height="25"/>
   </a>
-  <a href="https://t.me/dmitry_appel">
+  <a href="https://t.me/ganapataya">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" alt="telegram badge" height="25"/>
   </a>
   <a href="https://github.com/Gana74">
