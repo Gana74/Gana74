@@ -125,9 +125,12 @@
 <h2>🎯 Активность</h2>
 
 <div align="center">
-  <!-- Альтернатива 1 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gana74&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- График контрибуций -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gana74&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+
+   
 ###
 
 <h2>🎓 Образование</h2>
