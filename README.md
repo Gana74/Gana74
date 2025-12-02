@@ -125,14 +125,9 @@
 <h2>🎯 Активность</h2>
 
 <div align="center">
-  <!-- Календарь контрибуций -->
-  <img src="https://ghchart.rshah.org/Gana74" alt="Contribution Chart" />
-  <br/><br/>
-  
-  <!-- Streak с другого сервиса -->
-  <img src="https://streak-stats.demolab.com?user=Gana74&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <!-- Альтернатива 1 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gana74&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ###
 
 <h2>🎓 Образование</h2>
