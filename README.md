@@ -82,13 +82,13 @@
   <li>
     <strong>🛒 Food Delivery Telegram Bot</strong><br>
     Бот для доставки еды с каталогом, корзиной, уведомлениями менеджера и интеграцией Google Sheets.<br>
-    <a href="https://github.com/Gana74/food-delivery-bot">GitHub</a>
+    <a href="https://github.com/Gana74/Food-Delivery-Telegram-Bot">GitHub</a>
   </li>
   
   <li>
     <strong>🤖 Telegram бот для детского центра “Учи.ру”</strong><br>
     Бот для записи на курсы, информирования о программах и автоматизации работы с клиентами.<br>
-    <a href="https://github.com/Gana74/uchiru-bot">GitHub</a>
+    <a href="https://github.com/Gana74/uchi-bot">GitHub</a>
   </li>
 
   <li>
