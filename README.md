@@ -125,11 +125,11 @@
 <h2>🎯 Активность</h2>
 
 <div align="center">
-  <!-- График контрибуций -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gana74&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- Календарь контрибуций -->
+  <img src="https://ghchart.rshah.org/Gana74" alt="Contribution Chart" />
+ 
+
 </div>
-
-
    
 ###
 
